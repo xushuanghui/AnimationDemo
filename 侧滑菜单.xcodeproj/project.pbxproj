@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		175E3F0B206F8A0700558906 /* AnimationModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 175E3F0A206F8A0700558906 /* AnimationModel.m */; };
 		A5368C8A1D6EFF0C009C5A60 /* 勾-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5368C891D6EFF0C009C5A60 /* 勾-2@2x.png */; };
 		A5368C8C1D6EFF64009C5A60 /* 我的奖励-圆点@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5368C8B1D6EFF64009C5A60 /* 我的奖励-圆点@2x.png */; };
 		DA57DF311B5E360D00EF5718 /* chooser-button-input-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA57DF211B5E360D00EF5718 /* chooser-button-input-highlighted@2x.png */; };
@@ -68,6 +69,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		175E3F09206F8A0700558906 /* AnimationModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationModel.h; sourceTree = "<group>"; };
+		175E3F0A206F8A0700558906 /* AnimationModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationModel.m; sourceTree = "<group>"; };
 		A5368C891D6EFF0C009C5A60 /* 勾-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "勾-2@2x.png"; sourceTree = "<group>"; };
 		A5368C8B1D6EFF64009C5A60 /* 我的奖励-圆点@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的奖励-圆点@2x.png"; sourceTree = "<group>"; };
 		DA57DF211B5E360D00EF5718 /* chooser-button-input-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chooser-button-input-highlighted@2x.png"; sourceTree = "<group>"; };
@@ -271,6 +274,8 @@
 				DA88940F1B53E3FF00B47DE7 /* AppDelegate.m */,
 				DA8894111B53E3FF00B47DE7 /* ViewController.h */,
 				DA8894121B53E3FF00B47DE7 /* ViewController.m */,
+				175E3F09206F8A0700558906 /* AnimationModel.h */,
+				175E3F0A206F8A0700558906 /* AnimationModel.m */,
 				DA8894141B53E3FF00B47DE7 /* Main.storyboard */,
 				DA8894171B53E3FF00B47DE7 /* Images.xcassets */,
 				DA8894191B53E3FF00B47DE7 /* LaunchScreen.xib */,
@@ -506,6 +511,7 @@
 				DA8894101B53E3FF00B47DE7 /* AppDelegate.m in Sources */,
 				DA6B3A931BAFF26C00D82AC1 /* BaseViewController.m in Sources */,
 				DAADC32A1B5B40A700E6C503 /* TitleButton.m in Sources */,
+				175E3F0B206F8A0700558906 /* AnimationModel.m in Sources */,
 				DA88943F1B53F0CB00B47DE7 /* LeftViewController.m in Sources */,
 				DA88940D1B53E3FF00B47DE7 /* main.m in Sources */,
 				DA6B3A941BAFF26C00D82AC1 /* ComprehensiveCaseController.m in Sources */,
